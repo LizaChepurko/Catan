@@ -1,0 +1,3 @@
+/home/liza/workcpp/Assignment3/build/CMakeFiles/CatanTest.dir
+/home/liza/workcpp/Assignment3/build/CMakeFiles/edit_cache.dir
+/home/liza/workcpp/Assignment3/build/CMakeFiles/rebuild_cache.dir
